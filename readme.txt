@@ -2,7 +2,7 @@
 Contributors: flyplugins
 Donate link: http://flyplugins.com/donate
 Tags: fly plugins, s2member,wp courseware,wpcourseware,lms,lms for wordpress,learning management system,online ecourse,ecourse,wordpress learning management system
-Requires at least: 3.7
+Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv3
